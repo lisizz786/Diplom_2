@@ -1,5 +1,5 @@
 # Дипломный проект. Задание 2: API
-Для тестирования был выбран сервис [Stella Burgers](https://stellarburgers.nomoreparties.site/) | [API Stella Burgers](API_documentation/API_Stella_Burger.pdf)
+Протестирован сервис [Stella Burgers](https://stellarburgers.nomoreparties.site/) | [API Stella Burgers](API_documentation/API_Stella_Burger.pdf)
 
 Автотестами покрыт следующий набор тестов: 
 
