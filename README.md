@@ -1,7 +1,7 @@
-# Задание 2: "API-тесты" курс ЯндексПрактикум | Diplom_2
+# Дипломный проект. Задание : API
 Для тестирования был выбран сервис [Stella Burgers](https://stellarburgers.nomoreparties.site/) | [API Stella Burgers](API_documentation/API_Stella_Burger.pdf)
 
-В связи с грядущим релизом, был покрыт автотестами следующий набор тестов: 
+Автотестами покрыт следующий набор тестов: 
 
 [Создание пользователя](tests/test_create_user.py)
 - Создание уникального пользователя
